@@ -1,12 +1,9 @@
-taskwarrior-solarized
-=====================
-
-Solarized color scheme for taskwarrior.  See the [Solarized homepage](http://ethanschoonover.com/solarized) for the main project and themes for other applications.
+Solarized color scheme for [taskwarrior](http://taskwarrior.org/).  See the [Solarized homepage](http://ethanschoonover.com/solarized) for the main project and themes for other applications.
 
 Requirements
 ============
 
-This theme depends on `.Xresources` having color definitions from the main solarized repo: (https://github.com/altercation/solarized/blob/master/xresources/solarized)
+This theme depends on `.Xresources` having color definitions from the main solarized repo: https://github.com/altercation/solarized/blob/master/xresources/solarized
 
 Installing
 ==========
